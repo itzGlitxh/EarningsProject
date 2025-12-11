@@ -7,3 +7,4 @@ scikit-learn
 matplotlib
 lxml
 html5lib
+tqdm
